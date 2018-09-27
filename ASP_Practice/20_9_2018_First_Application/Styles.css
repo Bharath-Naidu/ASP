@@ -1,0 +1,31 @@
+﻿#header-tag {
+    /*height:150px;
+   width:500px;*/
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: burlywood;
+    border: dashed;
+    /*position:sticky;*/
+}
+/*#left {
+    text-align:justify;
+    height:350px;
+    width:150px;
+    background-color:burlywood;
+    border:solid;
+}*/
+#intro
+{
+    /*height:150px;
+    width:350px;*/
+    border-style: dotted;
+    border-color: inherit;
+    border-width: medium;
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: cornsilk;
+    height: 133px;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+

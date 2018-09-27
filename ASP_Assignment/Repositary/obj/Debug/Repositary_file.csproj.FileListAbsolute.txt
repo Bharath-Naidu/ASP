@@ -1,0 +1,6 @@
+C:\Users\bharat.naidu\source\repos\ASP Programs\ASP_Assignments\ASP_ASSIGNMENTS\Repositary\obj\Debug\Repositary_file.csprojAssemblyReference.cache
+C:\Users\bharat.naidu\source\repos\ASP Programs\ASP_Assignments\ASP_ASSIGNMENTS\Repositary\obj\Debug\Repositary_file.csproj.CoreCompileInputs.cache
+C:\Users\bharat.naidu\source\repos\ASP Programs\ASP_Assignments\ASP_ASSIGNMENTS\Repositary\bin\Debug\Repositary.dll
+C:\Users\bharat.naidu\source\repos\ASP Programs\ASP_Assignments\ASP_ASSIGNMENTS\Repositary\bin\Debug\Repositary.pdb
+C:\Users\bharat.naidu\source\repos\ASP Programs\ASP_Assignments\ASP_ASSIGNMENTS\Repositary\obj\Debug\Repositary.dll
+C:\Users\bharat.naidu\source\repos\ASP Programs\ASP_Assignments\ASP_ASSIGNMENTS\Repositary\obj\Debug\Repositary.pdb
